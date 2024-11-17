@@ -26,7 +26,7 @@ namespace AutoPartsApp
         {
             InitializeComponent();
             Nav.MFrame = MFrame;
-            Nav.MFrame.Navigate(new MainPage());
+            Nav.MFrame.Navigate(new LoadingPage());
         }
     }
 }

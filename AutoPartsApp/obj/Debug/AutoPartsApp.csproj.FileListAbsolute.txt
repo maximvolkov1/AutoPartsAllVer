@@ -134,3 +134,5 @@ C:\Users\mvolk\Desktop\AutoParts1.0-master\AutoPartsApp\obj\Debug\AutoPartsApp.e
 C:\Users\mvolk\Desktop\AutoParts1.0-master\AutoPartsApp\obj\Debug\AutoPartsApp.pdb
 C:\Users\mvolk\Desktop\AutoParts1.0-master\AutoPartsApp\obj\Debug\Pages\InfoPage.g.cs
 C:\Users\mvolk\Desktop\AutoParts1.0-master\AutoPartsApp\obj\Debug\Pages\InfoPage.baml
+C:\Users\mvolk\Desktop\AutoParts1.0-master\AutoPartsApp\obj\Debug\Pages\LoadingPage.g.cs
+C:\Users\mvolk\Desktop\AutoParts1.0-master\AutoPartsApp\obj\Debug\Pages\LoadingPage.baml
