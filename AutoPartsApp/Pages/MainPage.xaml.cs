@@ -73,26 +73,11 @@ namespace AutoPartsApp.Pages
 
         private void backBtn_Click(object sender, RoutedEventArgs e)
         {
-            Nav.MFrame.GoBack();
+            //Nav.MFrame.GoBack();
         }
-        public void UpdateButtonAccess(Users users)
+        private void infoBtn_Click(object sender, RoutedEventArgs e)
         {
-
-            if (users.RoleUser == "Администратор")
-            {
-                usersBtn.Visibility = Visibility.Visible;
-                sellersBtn.Visibility = Visibility.Visible;
-            }
-            else if (users.RoleUser == "Продавец")
-            {
-                usersBtn.Visibility = Visibility.Collapsed;
-                sellersBtn.Visibility = Visibility.Collapsed;
-            }
-        }
-
-        private void Page_Loaded(object sender, RoutedEventArgs e)
-        {
-            UpdateButtonAccess(Rights.curUser);
+            Nav.MFrame.Navigate(new InfoPage());
         }
     }
 }

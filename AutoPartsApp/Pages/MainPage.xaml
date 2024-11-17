@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:AutoPartsApp.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="Главное меню" Background="White" Loaded="Page_Loaded">
+      Title="Главное меню" Background="White">
 
     <Grid>
         <Grid.RowDefinitions>
@@ -28,6 +28,7 @@
             <MenuItem Name="ordersBtn" Header="Заказы" FontSize="24" FontFamily="Copperplate Gothic Bold" Click="ordersBtn_Click" Background="#FF7BB832"/>
             <MenuItem Name="sellersBtn" Header="Продавцы" FontSize="24" FontFamily="Copperplate Gothic Bold" Click="sellersBtn_Click" Background="#FF7BB832"/>
             <MenuItem Name="usersBtn" Header="Пользователи" FontSize="24" FontFamily="Copperplate Gothic Bold" Click="usersBtn_Click" Background="#FF7BB832" Width="230"/>
+            <MenuItem Name="infoBtn" Header="О программе" FontSize="24" FontFamily="Copperplate Gothic Bold" Click="infoBtn_Click" Background="#FF7BB832" Width="170"/>
         </Menu>
         <Image Source="/Pages/iconApp.png" Grid.Row="1"  Stretch="None" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <Canvas Grid.Row="2" Background="#FF7BB832"/>

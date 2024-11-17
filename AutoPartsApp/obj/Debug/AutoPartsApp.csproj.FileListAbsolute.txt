@@ -132,3 +132,5 @@ C:\Users\mvolk\Desktop\AutoParts1.0-master\AutoPartsApp\obj\Debug\AutoPartsApp.c
 C:\Users\mvolk\Desktop\AutoParts1.0-master\AutoPartsApp\obj\Debug\AutoPart.B3F662FE.Up2Date
 C:\Users\mvolk\Desktop\AutoParts1.0-master\AutoPartsApp\obj\Debug\AutoPartsApp.exe
 C:\Users\mvolk\Desktop\AutoParts1.0-master\AutoPartsApp\obj\Debug\AutoPartsApp.pdb
+C:\Users\mvolk\Desktop\AutoParts1.0-master\AutoPartsApp\obj\Debug\Pages\InfoPage.g.cs
+C:\Users\mvolk\Desktop\AutoParts1.0-master\AutoPartsApp\obj\Debug\Pages\InfoPage.baml

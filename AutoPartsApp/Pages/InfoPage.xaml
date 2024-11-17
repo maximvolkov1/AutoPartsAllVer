@@ -1,0 +1,25 @@
+﻿<Page x:Class="AutoPartsApp.Pages.InfoPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AutoPartsApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="InfoPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="45"/>
+        </Grid.RowDefinitions>
+        <Button Name="backBtn" Click="backBtn_Click" Width="45" Height="45" HorizontalAlignment="Left" VerticalAlignment="Center" Background="{x:Null}" Margin="15,0,0,0" BorderBrush="White" >
+            <Image Source="/Pages/iconBack.png"/>
+        </Button>
+        <TextBlock Text="Эта программа была создана студентом группы 4.2 ИСиП-3 Волковым Максимом" Margin="35,30,35,0" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="22" FontFamily="Copperplate Gothic Bold" Height="200" Width="729" TextWrapping="Wrap" TextAlignment="Center"/>
+        <TextBlock Text="ООО Автоцентр" FontSize="36" TextAlignment="Center" FontFamily="Copperplate Gothic Bold" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Image Source="/Pages/iconApp.png" Grid.Row="1"  Stretch="None" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Canvas Grid.Row="2" Background="#FF7BB832"/>
+    </Grid>
+</Page>
