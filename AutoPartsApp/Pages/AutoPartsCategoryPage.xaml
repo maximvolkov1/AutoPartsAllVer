@@ -1,0 +1,53 @@
+﻿<Page x:Class="AutoPartsApp.Pages.AutoPartsCategoryPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AutoPartsApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800" Background="White"
+      Title="AutoPartsCategoryPage">
+
+    <Grid>
+        <ListView x:Name="AutoPartCategoryLV" Margin="0 80 0 40" HorizontalContentAlignment="Stretch">
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Добавить категорию автозапчасти" x:Name="addAPC" Click="addAPC_Click" FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                    <MenuItem Header="Удалить категорию автозапчасти" x:Name="delAPC" Click="delAPC_Click" FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                    <MenuItem Header="Обновить" x:Name="updateAPC" Click="updateAPC_Click" FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid x:Name="MGrid">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="0"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="1" Margin="5">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Id: " FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                                <TextBlock Text="{Binding IdAutoPartsСategory}" FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Название категории автозапчасти: " FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                                <TextBlock Text="{Binding NameCategory}" FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <Button Content="Изменить" x:Name="editAPCBtn" Click="editAPCBtn_Click" Height="30" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" FontFamily="Copperplate Gothic Bold" Margin="400,0,0,0" Background="Black" Foreground="#FF7BB832"/>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Name="backBtn" Click="backBtn_Click" Width="45" Height="45" HorizontalAlignment="Left" VerticalAlignment="Top" Background="{x:Null}" Margin="15,0,0,0" BorderBrush="White" >
+            <Image Source="/Pages/iconBack.png"/>
+        </Button>
+        <TextBlock Text="ООО Автоцентр" Width="280" VerticalAlignment="Top" FontSize="36" FontFamily="Copperplate Gothic Bold" HorizontalAlignment="Center"/>
+        <TextBlock Text="Поиск:" Width="70" Height="30" FontSize="20" FontFamily="Copperplate Gothic Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,50,0,0"/>
+        <TextBox x:Name="searchTxt" TextChanged="searchTxt_TextChanged" HorizontalAlignment="Left" Width="140" Height="25" VerticalAlignment="Top" Margin="100,50,0,0" FontSize="20 " FontFamily="Copperplate Gothic Bold"/>
+        <Canvas HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Height="40" Background="#FF7BB832">
+        </Canvas>
+    </Grid>
+</Page>

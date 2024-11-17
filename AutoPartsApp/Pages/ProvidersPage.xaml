@@ -1,0 +1,63 @@
+﻿<Page x:Class="AutoPartsApp.Pages.ProvidersPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AutoPartsApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800" Background="White"
+      Title="ProvidersPage">
+
+    <Grid>
+        <ListView x:Name="ProviderLV" Margin="0 80 0 40" HorizontalContentAlignment="Stretch">
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Добавить поставщика" x:Name="addProvider" Click="addProvider_Click" FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                    <MenuItem Header="Удалить поставщика" x:Name="delProvider" Click="delProvider_Click" FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                    <MenuItem Header="Обновить" x:Name="updateProvider" Click="updateProvider_Click" FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid x:Name="MGrid">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="0"/>
+                            
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="1" Margin="5">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Id: " FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                                <TextBlock Text="{Binding IdProvider}" FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Наименование поставщика: " FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                                <TextBlock Text="{Binding NameProvider}" FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Адрес: " FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                                <TextBlock Text="{Binding Addres}" FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Телефон: " FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                                <TextBlock Text="{Binding Phone}" FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Почта: " FontSize="15" FontFamily="Copperplate Gothic Bold"/>
+                                <TextBlock Text="{Binding Email}" FontSize="15"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <Button Content="Изменить" x:Name="editProviderBtn" Click="editProviderBtn_Click" Height="30" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="15" FontFamily="Copperplate Gothic Bold" Background="Black" Foreground="#FF7BB832"/>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Name="backBtn" Click="backBtn_Click" Width="45" Height="45" HorizontalAlignment="Left" VerticalAlignment="Top" Background="{x:Null}" Margin="15,0,0,0" BorderBrush="White" >
+            <Image Source="/Pages/iconBack.png"/>
+        </Button>
+        <TextBlock Text="ООО Автоцентр" Width="280" VerticalAlignment="Top" FontSize="36" FontFamily="Copperplate Gothic Bold" HorizontalAlignment="Center"/>
+        <Canvas HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Height="40" Background="#FF7BB832">
+        </Canvas>
+    </Grid>
+</Page>

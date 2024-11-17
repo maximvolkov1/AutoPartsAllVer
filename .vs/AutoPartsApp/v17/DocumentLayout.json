@@ -1,0 +1,780 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|c:\\users\\mvolk\\desktop\\autoparts1.0-master\\autopartsapp\\pages\\autopartspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\autopartspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addautopartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addautopartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\adduserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\adduserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\autopartspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\autopartspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addautopartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addautopartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addautopartscategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addautopartscategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\clientspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\clientspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addclientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addclientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addclientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addclientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\saleselectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\saleselectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\saleselectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\saleselectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addorderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addorderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addorderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addorderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\adduserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\adduserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addsalepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addsalepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addsalepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addsalepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addsupplypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addsupplypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addsupplypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addsupplypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addproviderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addproviderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addproviderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addproviderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addsellerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addsellerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addsellerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addsellerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\addautopartscategory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\addautopartscategory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\autopartscategorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\autopartscategorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\autopartscategorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\autopartscategorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\salespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\salespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\salespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\salespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\orderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\orderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\orderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\orderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\supplypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\supplypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\supplypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\supplypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\clientspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\clientspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\providerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\providerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\providerspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\providerspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\sellerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\sellerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\sellerspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\sellerspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\pages\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\pages\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\appdate\\rights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\appdate\\rights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\appdate\\nav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\appdate\\nav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\autopartsapp\\appdate\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2ABCC-993E-44C0-B7C4-F0C423FDBA49}|AutoPartsApp\\AutoPartsApp.csproj|solutionrelative:autopartsapp\\appdate\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 374,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddClientPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddClientPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddClientPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddClientPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddClientPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:09:13.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddClientPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddClientPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddClientPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddClientPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddClientPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T13:09:10.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:07:48.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddSalePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddSalePage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddSalePage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddSalePage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddSalePage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:04:19.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddSupplyPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddSupplyPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddSupplyPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddSupplyPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddSupplyPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T09:03:08.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddProviderPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddProviderPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddProviderPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddProviderPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddProviderPage.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:02:03.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddSellerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddSellerPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddSellerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddSellerPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddSellerPage.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:00:33.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddSellerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddSellerPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddSellerPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddSellerPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddSellerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T09:00:32.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddUserPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddUserPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddUserPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddUserPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddUserPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:59:38.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddUserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddUserPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddUserPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddUserPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddUserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:59:37.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddAutoPartsCategory.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddAutoPartsCategory.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddAutoPartsCategory.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddAutoPartsCategory.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddAutoPartsCategory.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:58:56.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddAutoPartsCategory.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddAutoPartsCategory.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddAutoPartsCategory.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddAutoPartsCategory.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddAutoPartsCategory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:58:35.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddAutoPartPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddAutoPartPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddAutoPartPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddAutoPartPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddAutoPartPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:55:52.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddAutoPartPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddAutoPartPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddAutoPartPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddAutoPartPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddAutoPartPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:54:36.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:53:41.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:53:18.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AutoPartsCategoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AutoPartsCategoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AutoPartsCategoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AutoPartsCategoryPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AutoPartsCategoryPage.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:52:05.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AutoPartsCategoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AutoPartsCategoryPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AutoPartsCategoryPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AutoPartsCategoryPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AutoPartsCategoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:51:46.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoPartsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AutoPartsPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AutoPartsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AutoPartsPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AutoPartsPage.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:50:23.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoPartsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AutoPartsPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AutoPartsPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AutoPartsPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AutoPartsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:49:48.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\ClientsPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\ClientsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\ClientsPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\ClientsPage.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:34:06.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ClientsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\ClientsPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\ClientsPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\ClientsPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\ClientsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:33:29.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProvidersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\ProvidersPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\ProvidersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\ProvidersPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\ProvidersPage.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:31:22.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProvidersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\ProvidersPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\ProvidersPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\ProvidersPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\ProvidersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:31:21.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SellersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SellersPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\SellersPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SellersPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\SellersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:29:05.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UsersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\UsersPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\UsersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\UsersPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\UsersPage.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:28:05.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UsersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\UsersPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\UsersPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\UsersPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\UsersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:26:07.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\MainWindow.xaml",
+              "RelativeToolTip": "AutoPartsApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:25:25.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AuthorizationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AuthorizationPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AuthorizationPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AuthorizationPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AuthorizationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:23:33.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Rights.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\AppDate\\Rights.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\AppDate\\Rights.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\AppDate\\Rights.cs",
+              "RelativeToolTip": "AutoPartsApp\\AppDate\\Rights.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:22:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Nav.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\AppDate\\Nav.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\AppDate\\Nav.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\AppDate\\Nav.cs",
+              "RelativeToolTip": "AutoPartsApp\\AppDate\\Nav.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:22:00.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaleSelectPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SaleSelectPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\SaleSelectPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SaleSelectPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\SaleSelectPage.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:51:22.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaleSelectPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SaleSelectPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\SaleSelectPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SaleSelectPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\SaleSelectPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T07:45:00.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddSalePage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddSalePage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddSalePage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddSalePage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddSalePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T12:17:01.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddSupplyPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddSupplyPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddSupplyPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddSupplyPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddSupplyPage.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:56:47.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SupplyPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SupplyPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\SupplyPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SupplyPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\SupplyPage.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:56:43.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SupplyPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SupplyPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\SupplyPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SupplyPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\SupplyPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T11:56:41.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddOrderPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddOrderPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddOrderPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddOrderPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddOrderPage.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAywFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:53:29.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddOrderPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddOrderPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddOrderPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddOrderPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddOrderPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T11:52:49.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddProviderPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddProviderPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\AddProviderPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\AddProviderPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\AddProviderPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T11:52:24.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\AppDate\\Connect.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\AppDate\\Connect.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\AppDate\\Connect.cs",
+              "RelativeToolTip": "AutoPartsApp\\AppDate\\Connect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:38:18.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrdersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\OrdersPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\OrdersPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\OrdersPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\OrdersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T08:13:08.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SellersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SellersPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\SellersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SellersPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\SellersPage.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:44:18.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrdersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\OrdersPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\OrdersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\OrdersPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\OrdersPage.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:19:13.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SalesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SalesPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\SalesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SalesPage.xaml.cs",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\SalesPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:01:44.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SalesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SalesPage.xaml",
+              "RelativeDocumentMoniker": "AutoPartsApp\\Pages\\SalesPage.xaml",
+              "ToolTip": "C:\\Users\\mvolk\\Desktop\\AutoParts1.0-master\\AutoPartsApp\\Pages\\SalesPage.xaml",
+              "RelativeToolTip": "AutoPartsApp\\Pages\\SalesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T04:55:37.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
